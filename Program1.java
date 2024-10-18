@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //by branch1
 
 public class Program1
 {
@@ -26,4 +26,4 @@ public class Program1
         scanner.close();
     }
 }
-
+//changes made by branch 1 developer
